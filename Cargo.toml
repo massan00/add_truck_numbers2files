@@ -1,0 +1,8 @@
+[package]
+name = "add_truck_numbers2files"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+id3 = "1.16.2"
+natord = "1.0.9"
